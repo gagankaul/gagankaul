@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gagankaul
-- 👀 I’m interested in using programming to solve real-world problems and improve decision making.
-- 🌱 I’m currently learning web development, python and data science.
-- 💞️ I’m looking to collaborate on building web applications that involve data and trends analysis.
+- 👀 I use data engineering to solve real-world problems and improve decision making.
+- 🌱 My areas of interest include Collaborative Problem Solving, Data Pipelines, Parallel Distributed Computing, Big Data, Python and Serverless Computing.
+- 💞️ I would like to collaborate in the development of web applications that facilitate data and trends analysis.
 - 📫 You can find me on gagankaul [dot] com.
 
 <!---
